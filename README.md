@@ -1,6 +1,7 @@
 # CwaMarking
 
-A script and Excel macro to help speed up marking for CWA courses.
+A script to help speed up marking for CWA courses.
+Built for compatibility with **Feedback.xlsm**
 
 ## Before Marking
 - Place the **Feedback.xlsm** **script.py** and **script.bat** files in the directory of your students marked work
